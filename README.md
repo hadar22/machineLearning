@@ -5,7 +5,8 @@
 השתמשמתי במאגר הנתונים https://www.kaggle.com/slothkong/10-monkey-species  
 המאגר מכיל 2 תיקיות training וvalidation בכל אחת מהתיקיות יש 10 תקיות שונות ( 10 סוגי קופים) וכל תיקיה כזאת מכילה מספר שונה של תמונות מאותו סוג של קוף.
 וגם יש קובץ טקסט שמפרט בדיוק על שמות הסוגים וכמות תמונות מאותו סוג.
-![This is an image]https://github.com/hadar22/machineLearning/blob/main/images/table.PNG
+
+![This is an image] https://github.com/hadar22/machineLearning/blob/main/images/table.PNG
 > השאלות:
 1. האם נצליח למצוא מסווג שאחוזי ההצלחה שלו הם גבוהים וטובים?
 2.  אילו סוגי קופים  דומים אחד לשני לפי תוצאות המודל? והאם יש סוגים שנראים לנו שונים אבל המודל התקשה להבדיל ביניהם?
