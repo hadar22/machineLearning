@@ -1,7 +1,8 @@
 # machineLearning
 ## Classification of images of types of monkeys
 
-## סיווג תמונות של סוגי קופים 
+## סיווג תמונות של סוגי קופים
+
 בפרוייקט הזה חיפשתי את האלגוריתם הכי טוב כדי לסווג תמונות של קופים לסוגים שונים.
 יש 10 סוגים של קופים
 השתמשמתי במאגר הנתונים https://www.kaggle.com/slothkong/10-monkey-species  
